@@ -1,4 +1,4 @@
-Copyright [step by step develooper] [2025]. All rights reserved.
+Copyright [step by step developer] [2025]. All rights reserved.
 
 This project and its contents are protected by copyright law.
 
